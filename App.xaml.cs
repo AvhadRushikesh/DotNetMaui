@@ -14,6 +14,6 @@ public partial class App : Application
         navPage.BarBackground = Colors.Chocolate;
         navPage.BarTextColor = Colors.White;
 
-        MainPage = navPage;
+        MainPage = new FlyoutPageDemo();
     }
 }
