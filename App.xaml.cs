@@ -14,6 +14,8 @@ public partial class App : Application
         //navPage.BarTextColor = Colors.White;
         //MainPage = new TabbedPageDemo();
 
-        MainPage = new StackLayoutDemo();
+        //MainPage = new StackLayoutDemo();
+        //MainPage = new HorizontalStackLayout();
+        MainPage = new VerticalStackLayout();
     }
 }

@@ -16,10 +16,16 @@
     <MauiXaml Update="FlyoutPageDemo.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="HorizontalStackLayout.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="StackLayoutDemo.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="TabbedPageDemo.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="VerticalStackLayout.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>
