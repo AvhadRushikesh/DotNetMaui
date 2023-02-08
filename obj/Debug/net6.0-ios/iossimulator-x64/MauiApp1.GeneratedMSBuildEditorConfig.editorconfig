@@ -106,6 +106,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.TabbedPageDemo.xa
 build_metadata.AdditionalFiles.TargetPath = TabbedPageDemo.xaml
 build_metadata.AdditionalFiles.RelativePath = TabbedPageDemo.xaml
 
+[D:/SMBios/Training/Udemy/NET MAUI/MauiApp1/TextControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.TextControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = TextControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = TextControlsDemo.xaml
+
 [D:/SMBios/Training/Udemy/NET MAUI/MauiApp1/VerticalStackLayout.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.VerticalStackLayout.xaml

@@ -43,6 +43,9 @@
     <MauiXaml Update="TabbedPageDemo.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="TextControlsDemo.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="VerticalStackLayout.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
