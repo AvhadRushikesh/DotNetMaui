@@ -28,6 +28,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[D:/SMBios/Training/Udemy/NET MAUI/MauiApp1/CommandsControlDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.CommandsControlDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = CommandsControlDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = CommandsControlDemo.xaml
+
 [D:/SMBios/Training/Udemy/NET MAUI/MauiApp1/FirstContentPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.FirstContentPage.xaml
