@@ -8,6 +8,6 @@ public partial class App : Application
 
         //MainPage = new AppShell();
         
-        MainPage = new ActivityControls();
+        MainPage = new CollectionControl();
     }
 }
