@@ -16,6 +16,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.AbsoluteLayout.xa
 build_metadata.AdditionalFiles.TargetPath = AbsoluteLayout.xaml
 build_metadata.AdditionalFiles.RelativePath = AbsoluteLayout.xaml
 
+[D:/SMBios/Training/Udemy/NET MAUI/MauiApp1/ActivityControls.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.ActivityControls.xaml
+build_metadata.AdditionalFiles.TargetPath = ActivityControls.xaml
+build_metadata.AdditionalFiles.RelativePath = ActivityControls.xaml
+
 [D:/SMBios/Training/Udemy/NET MAUI/MauiApp1/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.App.xaml
