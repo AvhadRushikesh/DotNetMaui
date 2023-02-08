@@ -34,6 +34,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.FirstContentPage.
 build_metadata.AdditionalFiles.TargetPath = FirstContentPage.xaml
 build_metadata.AdditionalFiles.RelativePath = FirstContentPage.xaml
 
+[D:/SMBios/Training/Udemy/NET MAUI/MauiApp1/FlexLayout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.FlexLayout.xaml
+build_metadata.AdditionalFiles.TargetPath = FlexLayout.xaml
+build_metadata.AdditionalFiles.RelativePath = FlexLayout.xaml
+
 [D:/SMBios/Training/Udemy/NET MAUI/MauiApp1/FlyoutPageDemo.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.FlyoutPageDemo.xaml

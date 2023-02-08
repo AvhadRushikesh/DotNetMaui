@@ -17,6 +17,7 @@ public partial class App : Application
         //MainPage = new StackLayoutDemo();
         //MainPage = new HorizontalStackLayout();
         //MainPage = new GridDemo();
-        MainPage = new AbsoluteLayout();
+        //MainPage = new AbsoluteLayout();
+        MainPage = new FlexLayout();
     }
 }
