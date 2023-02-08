@@ -7,17 +7,7 @@ public partial class App : Application
 		InitializeComponent();
 
         //MainPage = new AppShell();
-        //MainPage = new FirstContentPage();
-
-        //var navPage = new NavigationPage(new MainPage());
-        //navPage.BarBackground = Colors.Chocolate;
-        //navPage.BarTextColor = Colors.White;
-        //MainPage = new TabbedPageDemo();
-
-        //MainPage = new StackLayoutDemo();
-        //MainPage = new HorizontalStackLayout();
-        //MainPage = new GridDemo();
-        //MainPage = new AbsoluteLayout();
-        MainPage = new FlexLayout();
+        
+        MainPage = new PresentationControlDemo();
     }
 }
