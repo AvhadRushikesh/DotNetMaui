@@ -31,6 +31,9 @@
     <MauiXaml Update="HorizontalStackLayout.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="InputControlsDemo.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="PresentationControlDemo.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
