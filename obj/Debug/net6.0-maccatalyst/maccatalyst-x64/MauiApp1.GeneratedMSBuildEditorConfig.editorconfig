@@ -34,6 +34,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.FlyoutPageDemo.xa
 build_metadata.AdditionalFiles.TargetPath = FlyoutPageDemo.xaml
 build_metadata.AdditionalFiles.RelativePath = FlyoutPageDemo.xaml
 
+[D:/SMBios/Training/Udemy/NET MAUI/MauiApp1/GridDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.GridDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = GridDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = GridDemo.xaml
+
 [D:/SMBios/Training/Udemy/NET MAUI/MauiApp1/HorizontalStackLayout.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.HorizontalStackLayout.xaml

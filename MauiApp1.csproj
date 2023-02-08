@@ -55,6 +55,9 @@
 	  <MauiXaml Update="FlyoutPageDemo.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="GridDemo.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="HorizontalStackLayout.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
