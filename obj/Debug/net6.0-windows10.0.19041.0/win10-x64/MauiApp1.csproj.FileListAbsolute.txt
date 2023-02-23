@@ -252,7 +252,6 @@ D:\SMBios\Training\Udemy\NET MAUI\MauiApp1\bin\Debug\net6.0-windows10.0.19041.0\
 D:\SMBios\Training\Udemy\NET MAUI\MauiApp1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostfxr.dll
 D:\SMBios\Training\Udemy\NET MAUI\MauiApp1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
 D:\SMBios\Training\Udemy\NET MAUI\MauiApp1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
-D:\SMBios\Training\Udemy\NET MAUI\MauiApp1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.1222.56807.dll
 D:\SMBios\Training\Udemy\NET MAUI\MauiApp1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordbi.dll
 D:\SMBios\Training\Udemy\NET MAUI\MauiApp1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorrc.dll
 D:\SMBios\Training\Udemy\NET MAUI\MauiApp1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\msquic.dll
@@ -358,3 +357,4 @@ D:\SMBios\Training\Udemy\NET MAUI\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\
 D:\SMBios\Training\Udemy\NET MAUI\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\SMBios\Training\Udemy\NET MAUI\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\SMBios\Training\Udemy\NET MAUI\MauiApp1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\SMBios\Training\Udemy\NET MAUI\MauiApp1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.1322.58009.dll
